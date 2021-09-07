@@ -1,0 +1,70 @@
+*{
+	margin: 2;
+	padding: 5;
+}	
+
+body {
+	background-color:black;
+	font-family:'Calibri'
+}
+
+title {
+    font-family: Helvetica, sans-serif;
+}
+
+#cabecera{
+    position:relative; 
+	margin: 1px -120px;
+	max-width:10%;
+    top:-10px;
+    right: 500px;
+}
+
+#Buscador {
+    position: relative;
+    background: url(https://cdn0.iconfinder.com/data/icons/slim-square-icons-basics/100/basics-19-32.png) no-repeat 1px;
+    background-size: 24px;
+    width: 500px;
+    border: solid 1px #fff;
+    color: #fff;
+    padding: 10PX 30px;
+    outline: none;
+    top:-55px;
+    left:140px;
+  }
+  
+.nav{
+    text-decoration:none;
+    color:inherit;
+    font-size:14px;
+}
+
+.logo {
+    font-size: 40px;
+    color:red;
+    font-family: Impact;
+    position: relative;
+    top: -100px;
+    left: -20px;
+}
+          
+.nav-menu{
+    display:inline-block;
+    width:1070px;
+    height:100px;
+    margin-left: 10px;
+    padding: 5px 120px;
+    background-color:black;
+    border:1px solid #000;
+    text-align:auto;
+    color:black;
+    position:relative;
+}
+
+.menu{
+    display:inline-block;
+    position:relative;
+    padding: 15px;
+	left: 150px;
+    top:-110px;
+}
